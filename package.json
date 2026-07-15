@@ -1,0 +1,13 @@
+{
+  "name": "ai-face-recognition-attendance-system",
+  "version": "1.0.0",
+  "description": "AI Face Recognition Attendance System",
+  "main": "app.py",
+  "scripts": {
+    "postinstall": "python -m venv \"%USERPROFILE%\\.venv_attendance\" && \"%USERPROFILE%\\.venv_attendance\\Scripts\\pip\" install torch torchvision --index-url https://download.pytorch.org/whl/cpu && \"%USERPROFILE%\\.venv_attendance\\Scripts\\pip\" install -r requirements.txt",
+    "dev": "\"%USERPROFILE%\\.venv_attendance\\Scripts\\python\" app.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
