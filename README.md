@@ -119,4 +119,4 @@ AI_Face_Recognition_Attendance_System/
 ```
 
 Dataset
-https://www.kaggle.com/code/pavanm10/recommendations-to-passnyc-1st-place-solution/edit?fromFork=1
+https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html?utm_source=chatgpt.com
