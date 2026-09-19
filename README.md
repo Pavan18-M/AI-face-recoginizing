@@ -117,3 +117,6 @@ AI_Face_Recognition_Attendance_System/
 ├── requirements.txt           # Project dependencies
 └── app.py                     # Main application entry point
 ```
+
+Dataset
+https://www.kaggle.com/code/pavanm10/recommendations-to-passnyc-1st-place-solution/edit?fromFork=1
